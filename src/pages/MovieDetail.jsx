@@ -1,3 +1,4 @@
+/* eslint-disable array-callback-return */
 import React, { useEffect, useState } from "react";
 import { useLocation } from "react-router-dom";
 import { API_KEY, BASE_IMG_URL, urlRequest } from "../config/config";
